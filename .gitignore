@@ -1,9 +1,0 @@
-# Local .terraform directory
-.terraform/*
-
-# Local tf state files
-*.tfstate
-*.tfstate.*
-
-# Each user should have their variable file locally, as it may include sensitive data
-terraform-dev.tfvars
